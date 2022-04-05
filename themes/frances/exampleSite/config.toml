@@ -2,10 +2,9 @@
 baseurl = "https://example.com"
 languageCode = "en-us"
 sectionPagesMenu = "main"
-theme = "frances"
 
 [params]
-	name = "Laura Mae Bagwell"
-	description = "Photographer and producer from El Paso, TX"
+	name = "Frances Hodgkins"
+	description = "Landscape and still-life painter from New Zealand"
 	email = "frances@hodgkins.io"
-	author = "Laura Mae Bagwell"
+	author = "Frances Hodgkins"
